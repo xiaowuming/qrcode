@@ -16,6 +16,7 @@ var qrcode = React.createClass({
   render: function() {
     return (
       <View style={styles.container}>
+      
         <Text style={styles.welcome}>
           Welcome to React Native!
         </Text>
